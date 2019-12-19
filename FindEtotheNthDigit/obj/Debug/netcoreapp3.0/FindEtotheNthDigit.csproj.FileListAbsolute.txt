@@ -1,0 +1,11 @@
+C:\Users\Diogo\source\repos\FindEtotheNthDigit\FindEtotheNthDigit\bin\Debug\netcoreapp3.0\FindEtotheNthDigit.exe
+C:\Users\Diogo\source\repos\FindEtotheNthDigit\FindEtotheNthDigit\bin\Debug\netcoreapp3.0\FindEtotheNthDigit.deps.json
+C:\Users\Diogo\source\repos\FindEtotheNthDigit\FindEtotheNthDigit\bin\Debug\netcoreapp3.0\FindEtotheNthDigit.runtimeconfig.json
+C:\Users\Diogo\source\repos\FindEtotheNthDigit\FindEtotheNthDigit\bin\Debug\netcoreapp3.0\FindEtotheNthDigit.runtimeconfig.dev.json
+C:\Users\Diogo\source\repos\FindEtotheNthDigit\FindEtotheNthDigit\bin\Debug\netcoreapp3.0\FindEtotheNthDigit.dll
+C:\Users\Diogo\source\repos\FindEtotheNthDigit\FindEtotheNthDigit\bin\Debug\netcoreapp3.0\FindEtotheNthDigit.pdb
+C:\Users\Diogo\source\repos\FindEtotheNthDigit\FindEtotheNthDigit\obj\Debug\netcoreapp3.0\FindEtotheNthDigit.csprojAssemblyReference.cache
+C:\Users\Diogo\source\repos\FindEtotheNthDigit\FindEtotheNthDigit\obj\Debug\netcoreapp3.0\FindEtotheNthDigit.AssemblyInfoInputs.cache
+C:\Users\Diogo\source\repos\FindEtotheNthDigit\FindEtotheNthDigit\obj\Debug\netcoreapp3.0\FindEtotheNthDigit.AssemblyInfo.cs
+C:\Users\Diogo\source\repos\FindEtotheNthDigit\FindEtotheNthDigit\obj\Debug\netcoreapp3.0\FindEtotheNthDigit.dll
+C:\Users\Diogo\source\repos\FindEtotheNthDigit\FindEtotheNthDigit\obj\Debug\netcoreapp3.0\FindEtotheNthDigit.pdb
